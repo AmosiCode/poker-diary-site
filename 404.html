@@ -1,0 +1,6 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>pokerDiary</title>
+<script>
+  var m = location.pathname.match(/\/join\/([A-Za-z0-9]{8})/);
+  location.replace(m ? "/join/?code=" + m[1] : "/");
+</script></head><body></body></html>

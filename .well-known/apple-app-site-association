@@ -1,0 +1,8 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      { "appID": "TEAMID.com.amoschen.pokerdiary", "paths": ["/join/*"] }
+    ]
+  }
+}
